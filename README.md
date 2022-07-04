@@ -1,7 +1,7 @@
 ### Hi there im Lucas👋
 
-- 🔭 I’m currently working on HTML and CSS
-- 🌱 I’m currently learning Javascript, React, nodeJS
+- 🔭 I’m currently working on HTML, CSS and JavaScript
+- 🌱 I’m currently learning React, Tailwind
 - 👯 I’m looking to collaborate on projects
 
 <div align="center">
