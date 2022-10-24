@@ -1,9 +1,9 @@
 ### Hi there im Lucas👋
 
-- 🔭 I’m currently working on HTML, CSS and JavaScript
-- 🌱 I’m currently learning React, Tailwind
-- 👯 I’m looking to collaborate on projects
-- 📚 2/8 Computer Sciente - Estácio
+- 🔭 I’m currently working on React JS and Tailwind.
+- 🌱 I’m currently learning React, Tailwind.
+- 👯 I’m looking to collaborate on projects.
+- 📚 2/8 Computer Sciente - Estácio.
 
 <div align="center">
   <a href="https://github.com/lcscostadev">
