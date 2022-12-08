@@ -26,7 +26,7 @@
 <!--   <img align="right" alt="Lucs-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
  --></div>
     
-<div style="display: flex;flex-direction:column;"> 
+<div align="center"> 
 <!--   <a href="http://youtube.com/c/UC34-Ya9LsJ6GCgIlpMJYvUQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://instagram.com/lcscostaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitter.com/lcscostadev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
@@ -34,7 +34,7 @@
 <!--   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/lcscostadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
-    <img src="programmer.svg" style="width:400px;">
+<img src="programmer.svg" style="width:400px;">
  
   ![Snake animation](https://github.com/lcscostadev/lcscostadev/blob/output/github-contribution-grid-snake.svg)
  
