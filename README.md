@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on React JS and Tailwind.
 - 🌱 I’m currently learning React, Tailwind.
 - 👯 I’m looking to collaborate on projects.
-- 📚 3/8 Computer Sciente - Estácio.
+- 📚 3/8 Computer Science - Estácio.
 
 <div align="center">
   <a href="https://github.com/lcscostadev">
