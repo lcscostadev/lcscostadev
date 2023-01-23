@@ -1,7 +1,7 @@
 ### Hi there im Lucas👋
 
 - 🔭 I’m currently working on React JS and Tailwind.
-- 🌱 I’m currently learning React, Tailwind.
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on projects.
 - 📚 3/8 Computer Science - Estácio, Brazil.
 
