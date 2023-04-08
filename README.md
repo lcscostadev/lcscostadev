@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ReactJS, Tailwind and TypeScript.
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on projects.
-- 📚 Computer Science 2/8 ✅ - Estácio de Sá, Brazil.
+- 📚 Computer Science 3/8 ✅ - Estácio de Sá, Brazil.
 
 <div align="center">
   <a href="https://github.com/lcscostadev">
