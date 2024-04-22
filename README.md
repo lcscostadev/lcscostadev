@@ -15,7 +15,7 @@ while (isGoalCompleted !== true) {
   doMyBest();
 }
 ```
-<table border="0" align="left" cellpadding="10">
+<table border="0" align="center" cellpadding="10">
   <tr>
     <td align="center" width="324" rowspan="3" border="0">
       <img src="programmer.svg" style="width: 800px;">
@@ -49,7 +49,5 @@ while (isGoalCompleted !== true) {
   </tr>
 </table>
 
-
-<img src="programmer.svg" style="width: 150px;">
 
 
