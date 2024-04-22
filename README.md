@@ -18,7 +18,7 @@ while (isGoalCompleted !== true) {
 <table border="0" align="center" cellpadding="10">
   <tr>
     <td align="center" width="324" rowspan="3" border="0">
-      <img src="programmer.svg" style="width: 800px;">
+      <img src="city.jpg" style="width: 800px;">
     </td>
     <td align="center" width="440" border="0">
       <img src="https://github-readme-stats.vercel.app/api?username=lcscostadev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
