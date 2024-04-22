@@ -50,5 +50,6 @@ while (isGoalCompleted !== true) {
 </table>
 
 
+<img src="programmer.svg" style="width: 150px;">
 
 
