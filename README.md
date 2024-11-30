@@ -2,7 +2,7 @@
 
 ```js
 const name = "Lucas";
-let age = 24;
+let age = 25;
 let goal = "Become a full stack developer";
 let isGoalCompleted = false;
 
