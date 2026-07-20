@@ -8,10 +8,11 @@
 
 🌐 Portfolio: [https://secatul.com](https://portfolio-woad-alpha-27.vercel.app/)
 
+<!--
 ## Active Projects:
 - 🌱 [Digital Garden](https://secatul.github.io/secatul-digital-garden/) - Personal knowledge base and notes
 - 👾 [CyberHub](https://v0-link-collection-website.vercel.app/) - Curated resources for networking labs, cybersecurity, Linux, and programming. All in one place.
-
+  -->
 ---
 
 ## Cybersecurity Studies
